@@ -1,5 +1,5 @@
 title: Gabriel Caldi
-logo: index/assets/img/main_image.jpg
+#logo: index/assets/img/main_image.jpg
 description: Production Engineering Student | Data Science Student
 show_download: true
 theme: jekyll-theme-minimal
