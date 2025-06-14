@@ -34,8 +34,9 @@
       "heading": "CONECTE-SE",
       "links": [
         { "name": "GitHub", "url": "https://github.com/ikirior" },
-        { "name": "LinkedIn", "url": "#" },
-        { "name": "Email", "url": "mailto:email@example.com" }
+        { "name": "LinkedIn", "url": "https://www.linkedin.com/in/gabriel-caldi/" },
+        { "name": "Email", "url": "mailto:gabriel_caldi@hotmail.com" }
+        { "name": "Lattes", "url": "http://lattes.cnpq.br/8174639817891169"
       ]
     }
   },
